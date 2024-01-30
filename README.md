@@ -5,13 +5,10 @@ This project is a custom watch face for Garmin devices, developed using Monkey C
 
 # Features
 Time: The current time is prominently displayed at the center of the watch face.
-
 Heart Rate: Real-time heart rate data is shown, providing users with their current heart rate.
-
 Date: The current date is displayed to keep users informed about the day.
-
 Steps: The number of steps taken by the user is displayed, encouraging an active lifestyle.
-
+battery: Current battery percentage.
 API-Driven Arcs: Three arcs on the watch face represent dynamic values fetched from an API running in the background.
 
 ## Getting Started
